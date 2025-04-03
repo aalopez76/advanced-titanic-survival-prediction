@@ -7,3 +7,5 @@ xgboost
 scikit-plot
 missingno
 plotly
+streamlit
+joblib
