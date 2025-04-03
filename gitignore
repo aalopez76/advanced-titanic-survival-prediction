@@ -1,0 +1,28 @@
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Archivos temporales / backup
+*.log
+*.tmp
+*.bak
+*.swp
+
+# Entornos virtuales
+venv/
+env/
+.venv/
+
+# Salidas del modelo y datasets
+models/
+outputs/
+data/submission.csv
+data_submission.csv
+
+# Archivos de Jupyter
+.ipynb_checkpoints/
+
+# Compilados de Python
+__pycache__/
+*.py[cod]
